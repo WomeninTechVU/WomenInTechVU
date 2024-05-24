@@ -8,6 +8,9 @@
 🖥️ Feel free to connect with me on [LinkedIn]<br/>
 💭 Currently learning more about Java and JavaScript<br/>
 
+![istock-1154231467-3](https://github.com/WomeninTechVU/WomenInTechVU/assets/168056759/432f364d-3172-407c-813b-c0a3ba5cb665)
+
+
 <!--Markdown Badges: https://github.com/Ileriayo/markdown-badges-->
 # 🧰 Languages and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
